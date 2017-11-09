@@ -1,5 +1,7 @@
-number_a = 20;
-number_b = 53;
+"use strict"
+
+var number_a = 20;
+var number_b = 53;
 
 console.log((53/26.1));
 let A = [];
